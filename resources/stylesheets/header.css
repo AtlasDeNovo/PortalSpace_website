@@ -1,0 +1,20 @@
+
+
+.header_container{
+    background-color: black;
+    display: flex;
+    position: absolute;
+    height: 100px;
+}
+
+.logo_container{
+    position: relative;
+}
+
+.portal_space_logo{
+
+}
+
+.menu{
+    position: relative;
+}
